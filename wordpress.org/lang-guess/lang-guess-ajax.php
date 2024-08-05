@@ -1,0 +1,1 @@
+No Content: https://wordpress.org/lang-guess/lang-guess-ajax.php?uri=%252F&locale=en_US
